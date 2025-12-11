@@ -60,7 +60,7 @@ form input:focus, textarea:focus{
     justify-content: center;
     align-items: center;
     font-weight: bold;
-    
+    cursor: pointer;
 }
 div a{
     text-decoration: none;
